@@ -22,8 +22,11 @@ Or install it yourself as:
 
 ## Usage
  *include Dropiz in your model
+
  *to change a whole string in upper case.
+
  object.upcaseletter("helllo world")
+
  HELLO WORLD
 
 ## Contributing
